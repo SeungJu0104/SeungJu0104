@@ -1,30 +1,17 @@
 README 연습
 
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
 ##### Hi there 👋
+```
+System.out.println("안녕하세요!")
+```
 
 ---
 
-**bold** <br>
-*italic* <br>
-~~strikethrough~~
-* 1번
-* 2번
-- 1번
+개발자 남승주
+E-mail : skatmdwn23@naver.com
 
-
-[네이버](www.naver.com)
-
-
-```
-System.out.println("안녕!")
-```
 :smirk:
 :joy:
-:rage:
 
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=SeungJu0104)](https://github.com/SeungJu0104)
