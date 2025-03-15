@@ -1,5 +1,3 @@
-README 연습
-
 ##### Hi there 👋
 ```
 System.out.println("안녕하세요!")
